@@ -1,0 +1,22 @@
+header {
+   text-align: center; 
+   font-size: 30px;
+}
+
+main {
+    background-color: lightslategrey;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h2 {
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+p {
+    font-size: 25px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
